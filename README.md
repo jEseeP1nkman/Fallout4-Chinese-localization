@@ -1,2 +1,1 @@
-# Fallout4-Chinese-localization
-Fallout4 Chinese localization
+Fallout4 // 辐射4 汉化（ANK）
